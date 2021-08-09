@@ -1,13 +1,13 @@
-package com.launchacademy.reviews;
+package com.mortgage.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ReviewsApplication {
+public class MortgageApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ReviewsApplication.class, args);
+		SpringApplication.run(MortgageApplication.class, args);
 	}
 
 }

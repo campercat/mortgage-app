@@ -46,7 +46,7 @@ This project will require you to learn how to work as a part of a team. The EEs 
 
 - Take a moment to look at what has been provided as a team.
 
-- There is an empty `V1.0.0__init.sql` migration included, so that spring boot can run initially without erroring out due to an empty migrations folder.
+- There is an empty `V1__create_applications.sql` migration included, so that spring boot can run initially without erroring out due to an empty migrations folder.
 
 - Edit the README.md to include the name and a brief description of the project as well as a list of all the authors.
 
